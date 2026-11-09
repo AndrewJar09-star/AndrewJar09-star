@@ -7,8 +7,8 @@
   *Computer Science graduating student at University of Naples Federico II (UniNa)*
 
   <p align="center">
-    <a href="mailto:tuaemail@gmail.com">
-      <img src="https://img.shields.io/badge/EMAIL-TUAEMAIL%40GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <a href="mailto:barattoloandrea7@gmail.com">
+      <img src="https://img.shields.io/badge/EMAIL-barattoloandrea7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://github.com/AndrewJar09-star">
       <img src="https://img.shields.io/badge/GITHUB-ANDREWJAR09--STAR-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -88,8 +88,8 @@ I'm a developer driven by a simple goal: **turning ideas into clean, scalable, a
 
   Have an interesting project, a collaboration opportunity, or just want to talk tech and software engineering? Feel free to reach out!
 
-  <a href="mailto:tuaemail@gmail.com">
-    <img src="https://img.shields.io/badge/DROP%20ME%20AN%20EMAIL-TUAEMAIL%40GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Drop me an email" />
+  <a href="mailto:barattoloandrea7@gmail.com">
+    <img src="https://img.shields.io/badge/DROP%20ME%20AN%20EMAIL-barattoloandrea7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Drop me an email" />
   </a>
 
   <br><br>
