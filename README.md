@@ -7,6 +7,9 @@
   *Computer Science graduating student at University of Naples Federico II (UniNa)*
 
   <p align="center">
+    <a href="https://andreabarattolo.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/PORTFOLIO-ANDREABARATTOLO.VERCEL.APP-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Website" />
+    </a>
     <a href="mailto:barattoloandrea7@gmail.com">
       <img src="https://img.shields.io/badge/EMAIL-barattoloandrea7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
